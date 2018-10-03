@@ -1,0 +1,8 @@
+{
+  "name": "ApusPayment",
+  "version": "1.0.0",
+  "description": "Apus",
+  "main": "apus.js",
+  "keywords": [],
+  "preferGlobal": "true"
+}
