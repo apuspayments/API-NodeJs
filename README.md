@@ -33,7 +33,7 @@ Install using [Node Package Manager](https://www.npmjs.org/).
     * PRODUCTION 
 
 ```javascript
-    process.env.EnviromentType = "SANDBOX";
+process.env.EnviromentType = "SANDBOX";
 ```
 
 ## Make a payments
