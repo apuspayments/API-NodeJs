@@ -6,6 +6,8 @@ ApusPayments is a plataform to make payments using criptocurrencies.
 
 [Documentation API (v0.0.1)](https://docs.apuspayments.com/)
 
+[![npm version](https://badge.fury.io/js/apuspayments.svg)](//npmjs.com/package/apuspayments)
+
 ## Examples of use 
 
 * [x] Payments by card.
@@ -18,7 +20,7 @@ ApusPayments is a plataform to make payments using criptocurrencies.
 
 ## Getting Started
 
-Install using Node Package Manager.
+Install using [Node Package Manager](https://www.npmjs.org/).
 
 ```
 # npm install apuspayments
