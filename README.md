@@ -4,7 +4,7 @@ ApusPayments is a plataform to make payments using criptocurrencies.
 
 * Language: NodeJS
 
-[Documentation API (v0.0.1)](https://docs.apuspayments.com/)
+[Documentation API](https://docs.apuspayments.com/)
 
 [![npm version](https://badge.fury.io/js/apuspayments.svg)](//npmjs.com/package/apuspayments)
 
