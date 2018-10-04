@@ -2,10 +2,10 @@ const crypto = require('crypto'),
     http = require("https"),
     requestOptions = {
         "SANDBOX": {
-            "url": "sandbox.ApusPayments.com",
+            "url": "sandbox.apuspayments.com",
         },
         "PRODUCTION": {
-            "url": " api.ApusPayments.com"
+            "url": " api.apuspayments.com"
         },
         "payment": {
             "path": "/v1/checkout",

@@ -2,7 +2,6 @@ const utils = require("./utils/util"),
     constants = require("./constants"),
     validator = require("./utils/validator");
 
-
 function makePayment(payment, cb) {
     if (!constants.EnviromentType.includes(process.env.EnviromentType)) return cb("Set enviroment 'EnviromentType' to SANDBOX or PRODUCTION");
     validator.validatePayment(payment, function (err, msg) {
