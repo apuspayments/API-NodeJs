@@ -7,6 +7,7 @@ ApusPayments is a plataform to make payments using criptocurrencies.
 [Documentation API (v0.0.1)](https://docs.apuspayments.com/)
 
 ## Examples of use 
+
 * [x] Payments by card.
 * [x] Recurring payments.
 * [x] Cancel payment.
@@ -14,6 +15,14 @@ ApusPayments is a plataform to make payments using criptocurrencies.
 * [x] Cryptocurrency recharge.
 
 <hr>
+
+## Getting Started
+
+Install using Node Package Manager.
+
+```
+# npm install apuspayments
+```
 
 ## Requisites
 
