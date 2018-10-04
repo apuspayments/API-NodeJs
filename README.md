@@ -1,4 +1,4 @@
-# APUS-NODEJS
+# API-NODEJS
 
 ApusPayments is a plataform to make payments using criptocurrencies.
 
