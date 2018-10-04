@@ -1,8 +1,21 @@
 {
-  "name": "ApusPayments",
+  "name": "apuspayments",
   "version": "1.0.0",
-  "description": "Apus",
+  "description": "ApusPayments is a plataform to make payments using criptocurrencies.",
   "main": "apuspayments.js",
   "keywords": [],
-  "preferGlobal": "true"
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apuspayments/API-NodeJs.git"
+  },
+  "author": "ApusPayments",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apuspayments/API-NodeJs/issues"
+  },
+  "homepage": "https://github.com/apuspayments/API-NodeJs#readme"
 }
